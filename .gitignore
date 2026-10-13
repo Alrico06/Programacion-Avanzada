@@ -1,0 +1,26 @@
+# Workspace de Eclipse
+.metadata/
+RemoteSystemsTempFiles/
+.recommenders/
+
+# Compilados
+bin/
+build/
+target/
+Debug/
+Release/
+*.class
+*.o        # quita esta línea si tienes librerías necesarias en lib/
+
+# Temporales
+*.log
+*.tmp
+*.bak
+*~
+.DS_Store
+
+# Descomenta si NO quieres ficheros de proyecto de Eclipse
+# .project
+# .classpath
+# .cproject
+# .settings/
